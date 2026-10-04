@@ -1,10 +1,27 @@
-[A[A[B[B[B[A[C# devops module2
+\[A\[A\[B\[B\[B\[A\[C# devops module2
+
 ## student details
-Name:Kilari geethika[D[D[D[D[D[D[G[C[C[C[C[C[C[C[C[C[
+
+Name:Kilari geethika\[D\[D\[D\[D\[D\[D\[G\[C\[C\[C\[C\[C\[C\[C\[C\[C\[
 Repository: devopsmodule2
 ##Description
 This repository contains Devops module2 practical programs and exercises.
+
 ## Technologies used
--git
+
+\-git
 -github
 -c programming
+
+
+
+
+
+
+
+\#Additional Information
+
+
+
+This repository demonstrates Git and GitHub operations including cloning, staging, committing, pushing, pulling, and merge conflict resolution.
+
